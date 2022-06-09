@@ -1,6 +1,7 @@
 # M910Q-opencore
 OC 0.8.1版本EFI引导
 
+机型：联想m910q
 
 系统： big sugure 11.6.6
 
